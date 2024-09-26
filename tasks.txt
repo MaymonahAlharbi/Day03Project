@@ -5,4 +5,3 @@
 - Practice Git branching
 
 - Review Git merge and rebase
-- Some incorrect task
